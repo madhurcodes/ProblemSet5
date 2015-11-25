@@ -9,7 +9,7 @@ WORDLIST_FILENAME = "words.txt"
 
 # -----------------------------------
 # Helper code
-# (you don't need to understand this helper code)
+# (you don't need to understand this helper code) I do!
 def loadWords():
     """
     Returns a list of valid words. Words are strings of lowercase letters.
